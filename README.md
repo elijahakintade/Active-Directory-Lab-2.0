@@ -47,7 +47,8 @@ To enhance security operations, the project incorporates Shuffle, an open-source
 ***Installing Splunk Universal Forwarder on AD User (as test machine)***
 ![installing splunk univ  frwd on test machine](https://github.com/user-attachments/assets/aac05189-6bb8-4d64-b5e7-654fee5a115f)
 
-***Splunk Web int.***
+***Splunk Web int***
+
 ![splunk web int](https://github.com/user-attachments/assets/4270dbe4-b11e-4e5b-87fb-064997d9754a)
 
 ***installing Splunk universal forwarder on test machine***
